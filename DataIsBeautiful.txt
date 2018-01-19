@@ -1,1 +1,2 @@
-DataScienceForTheWin
+#DataScienceForTheWin
+This is David. Do you think you understand Git now?
